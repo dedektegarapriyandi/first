@@ -1,0 +1,25 @@
+.myjumbotron {
+    background-image: url('../../../public/img/slide1.jpg');
+    background-size: cover;
+    color: white;
+    padding: 8rem 0 0 0;
+    overflow: hidden;
+
+    h1 {
+        -webkit-animation-duration: 2s;
+    }
+
+    hr {
+        border-color: $red;
+        -webkit-animation-delay: .8s;
+    }
+
+    h2 {
+        -webkit-animation-duration: 1.5s;
+        -webkit-animation-delay: .5s;
+    }
+
+    p {
+        -webkit-animation-duration: 3s;
+    }
+}

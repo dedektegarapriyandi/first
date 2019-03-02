@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+
+// components
+@import 'components/navbar';
+@import 'components/jumbotron';
+@import 'components/login-box';
+@import 'components/register-box';
+@import 'components/news-slider';
+@import 'components/jurusan';
+@import 'components/about';
+@import 'components/footer';
+@import 'components/panel';

@@ -1,0 +1,12 @@
+#register-box {
+    .modal-content {
+        border: 1.5px solid $red;
+        border-radius: 15px;
+    }
+
+    .form-group {
+        input {
+            border: .5px solid $red;
+        }
+    }
+}
